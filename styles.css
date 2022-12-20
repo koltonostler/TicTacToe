@@ -128,7 +128,7 @@ table td {
 }
 
 .theme-switch::after {
-	content: "";
+	content: '';
 	position: absolute;
 	width: 38px;
 	height: 38px;
